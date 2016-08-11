@@ -1,23 +1,23 @@
 {
-  "name": "google-fonts-montserrat",
-  "version": "1.0.0",
-  "description": "Montserrat font packed into woff for offline serving of this google font",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rydn/google-fonts-montserrat.git"
-  },
-  "keywords": [
-    "google",
-    "fonts"
-  ],
-  "author": "Ryan Dick <noxinoobin@gmail.com>",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/rydn/google-fonts-montserrat/issues"
-  },
-  "homepage": "https://github.com/rydn/google-fonts-montserrat#readme"
+	"name": "google-fonts-montserrat",
+	"version": "1.0.1",
+	"description": "Montserrat font packed into woff for offline serving of this google font",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rydn/google-fonts-montserrat.git"
+	},
+	"keywords": [
+		"google",
+		"fonts"
+	],
+	"author": "Ryan Dick <noxinoobin@gmail.com>",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/rydn/google-fonts-montserrat/issues"
+	},
+	"homepage": "https://github.com/rydn/google-fonts-montserrat#readme"
 }
